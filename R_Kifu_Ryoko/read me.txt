@@ -1,2 +1,0 @@
-日本将棋連盟の中継ソフトの Kifu for JavaScript Pro で使われている菱湖書の杢駒を
-ShogiGUIで使えるよう位置調整したものです。
