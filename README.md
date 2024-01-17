@@ -3,6 +3,6 @@ ShogiGUI用の駒画像を作りましたので公開します。末尾が１は
 
 
 Shogi_GUI の駒や盤の変更、作業などは、多ボタンマウスのマクロを使えば簡単にできます。同じことをマクロ機能のないキーボードでやる場合は、AutoHotkey というソフトを使いましょう。下の動画では、キーボードの無変換を押しながら数字キーを押しています。
-
-https://github.com/keima03/AI-KOMA_for_ShogiGUI/assets/83162673/a170b55a-c0e6-4af3-8abe-84a92f7e7ec9
 s_gui.zip に駒・盤・駒台・AHKスクリプト が入っています。
+
+![駒盤駒台AHK](https://github.com/keima03/AI-KOMA_for_ShogiGUI/assets/83162673/a170b55a-c0e6-4af3-8abe84a92f7e7ec9)
